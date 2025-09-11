@@ -10,6 +10,9 @@
   "bugs": {
     "url": "https://github.com/hey-api/c12/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "author": {
     "email": "lubos@heyapi.dev",
